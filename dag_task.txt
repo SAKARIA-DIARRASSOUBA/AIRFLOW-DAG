@@ -1,0 +1,4 @@
+CommandLine: 
+ • List DAGs: airflow dags list
+ • List Tasks: airflow tasks list example_bash_operator
+ • Run an example task: airflow tasks test example_bash_operator runme_1 2015-06-01
